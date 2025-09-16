@@ -1,0 +1,24 @@
+.container-box1{
+  text-align: center;
+  padding:10px;
+}
+.para1{
+  padding: 0px 20px;
+}
+.container-box2{
+  background-color:#DCEBF2;
+  padding: 50px 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+ul,ol{
+  line-height: 30px;
+}
+a{
+  text-decoration: none;
+  color: skyblue;
+}
+hr{
+  margin: 50px 20px;
+}
